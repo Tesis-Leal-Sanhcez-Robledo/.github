@@ -5,8 +5,8 @@ Bienvenidos al repositorio de las aplicaciones desarrolladas para la tesis. Aqu√
 
 ## Descargas
 
-- [Descargar APK - Manual](URL-APK-MANUAL)
-- [Descargar APK - Automatizada por IA](URL-APK-IA)
+- [Descargar APK - Manual](https://github.com/Tesis-Leal-Sanhcez-Robledo/.github/releases/download/Manual/app-release.apk)
+- [Descargar APK - Automatizada por IA](https://github.com/Tesis-Leal-Sanhcez-Robledo/.github/releases/download/AI/app-release.apk)
 
 ## Instrucciones de uso
 
